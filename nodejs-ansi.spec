@@ -3,7 +3,7 @@ Name:		nodejs-ansi
 Version:	0.1.2
 Release:	1
 License:	MIT
-Group:		Libraries
+Group:		Development/Libraries
 URL:		https://github.com/TooTallNate/ansi.js
 Source0:	http://registry.npmjs.org/ansi/-/ansi-%{version}.tgz
 # Source0-md5:	a46eec705c14995f8380828ec4f9357a
