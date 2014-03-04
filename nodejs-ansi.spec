@@ -1,12 +1,12 @@
-Summary:	Node.js native addon build tool
+Summary:	Advanced ANSI formatting tool for Node.js
 Name:		nodejs-ansi
-Version:	0.1.2
+Version:	0.2.1
 Release:	1
 License:	MIT
 Group:		Development/Libraries
 URL:		https://github.com/TooTallNate/ansi.js
 Source0:	http://registry.npmjs.org/ansi/-/ansi-%{version}.tgz
-# Source0-md5:	a46eec705c14995f8380828ec4f9357a
+# Source0-md5:	b9cc255677a5a48d117142dc04a88f3d
 BuildRequires:	rpmbuild(macros) >= 1.634
 Requires:	nodejs
 BuildArch:	noarch
