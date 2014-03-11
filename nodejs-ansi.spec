@@ -4,9 +4,9 @@ Version:	0.2.1
 Release:	1
 License:	MIT
 Group:		Development/Libraries
-URL:		https://github.com/TooTallNate/ansi.js
 Source0:	http://registry.npmjs.org/ansi/-/ansi-%{version}.tgz
 # Source0-md5:	b9cc255677a5a48d117142dc04a88f3d
+URL:		https://github.com/TooTallNate/ansi.js
 BuildRequires:	rpmbuild(macros) >= 1.634
 Requires:	nodejs
 BuildArch:	noarch
