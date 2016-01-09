@@ -1,11 +1,11 @@
 Summary:	Advanced ANSI formatting tool for Node.js
 Name:		nodejs-ansi
-Version:	0.2.1
+Version:	0.3.0
 Release:	1
 License:	MIT
 Group:		Development/Libraries
 Source0:	http://registry.npmjs.org/ansi/-/ansi-%{version}.tgz
-# Source0-md5:	b9cc255677a5a48d117142dc04a88f3d
+# Source0-md5:	0a056443be409b8eec23ea9d10b5bf24
 URL:		https://github.com/TooTallNate/ansi.js
 BuildRequires:	rpmbuild(macros) >= 1.634
 Requires:	nodejs
